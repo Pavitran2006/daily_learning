@@ -8,3 +8,7 @@
 - Practiced Load Balancing concept and updated code examples.
 - Log entry 2 of 220
 
+## [2026-04-20 10:07] Algorithms: Dynamic Programming
+- Practiced Dynamic Programming concept and updated code examples.
+- Log entry 3 of 220
+
