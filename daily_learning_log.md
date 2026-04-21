@@ -12,3 +12,7 @@
 - Practiced Dynamic Programming concept and updated code examples.
 - Log entry 3 of 220
 
+## [2026-04-21 21:37] Algorithms: Binary Search
+- Practiced Binary Search concept and updated code examples.
+- Log entry 4 of 220
+
