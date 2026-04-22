@@ -28,3 +28,7 @@
 - Practiced ACID Properties concept and updated code examples.
 - Log entry 7 of 220
 
+## [2026-04-22 13:12] Web Development: RESTful API Design
+- Practiced RESTful API Design concept and updated code examples.
+- Log entry 8 of 220
+
