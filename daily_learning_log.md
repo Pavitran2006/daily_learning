@@ -44,3 +44,7 @@
 - Practiced Metaclasses concept and updated code examples.
 - Log entry 11 of 220
 
+## [2026-04-23 17:46] Python Basics: Functions & Scope
+- Practiced Functions & Scope concept and updated code examples.
+- Log entry 12 of 220
+
