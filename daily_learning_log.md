@@ -48,3 +48,7 @@
 - Practiced Functions & Scope concept and updated code examples.
 - Log entry 12 of 220
 
+## [2026-04-24 19:23] Algorithms: Binary Search
+- Practiced Binary Search concept and updated code examples.
+- Log entry 13 of 220
+
