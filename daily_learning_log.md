@@ -52,3 +52,7 @@
 - Practiced Binary Search concept and updated code examples.
 - Log entry 13 of 220
 
+## [2026-04-24 11:03] Databases: MongoDB & NoSQL
+- Practiced MongoDB & NoSQL concept and updated code examples.
+- Log entry 14 of 220
+
