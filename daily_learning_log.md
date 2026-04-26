@@ -76,3 +76,7 @@
 - Practiced State Management concept and updated code examples.
 - Log entry 19 of 220
 
+## [2026-04-26 09:30] Data Structures: Binary Trees & BST
+- Practiced Binary Trees & BST concept and updated code examples.
+- Log entry 20 of 220
+
