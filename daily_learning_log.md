@@ -80,3 +80,7 @@
 - Practiced Binary Trees & BST concept and updated code examples.
 - Log entry 20 of 220
 
+## [2026-04-26 14:36] System Design: Load Balancing
+- Practiced Load Balancing concept and updated code examples.
+- Log entry 21 of 220
+
