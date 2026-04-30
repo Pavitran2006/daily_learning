@@ -96,3 +96,7 @@
 - Practiced State Management concept and updated code examples.
 - Log entry 24 of 220
 
+## [2026-04-30 18:28] Data Structures: Stacks & Queues
+- Practiced Stacks & Queues concept and updated code examples.
+- Log entry 25 of 220
+
