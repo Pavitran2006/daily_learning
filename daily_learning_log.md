@@ -112,3 +112,7 @@
 - Practiced Binary Trees & BST concept and updated code examples.
 - Log entry 28 of 220
 
+## [2026-05-02 18:20] Algorithms: Greedy Algorithms
+- Practiced Greedy Algorithms concept and updated code examples.
+- Log entry 29 of 220
+
