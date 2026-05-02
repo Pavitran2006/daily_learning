@@ -108,3 +108,7 @@
 - Practiced CI/CD Pipelines concept and updated code examples.
 - Log entry 27 of 220
 
+## [2026-05-02 18:19] Data Structures: Binary Trees & BST
+- Practiced Binary Trees & BST concept and updated code examples.
+- Log entry 28 of 220
+
