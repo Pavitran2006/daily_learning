@@ -120,3 +120,7 @@
 - Practiced Git Commands & Workflows concept and updated code examples.
 - Log entry 30 of 220
 
+## [2026-05-02 19:42] Python Basics: Functions & Scope
+- Practiced Functions & Scope concept and updated code examples.
+- Log entry 31 of 220
+
