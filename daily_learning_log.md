@@ -144,3 +144,7 @@
 - Practiced Linked Lists concept and updated code examples.
 - Log entry 36 of 220
 
+## [2026-05-04 21:26] DevOps & Tools: Docker Containers
+- Practiced Docker Containers concept and updated code examples.
+- Log entry 37 of 220
+
