@@ -140,3 +140,7 @@
 - Practiced Pandas DataFrames concept and updated code examples.
 - Log entry 35 of 220
 
+## [2026-05-04 21:57] Data Structures: Linked Lists
+- Practiced Linked Lists concept and updated code examples.
+- Log entry 36 of 220
+
