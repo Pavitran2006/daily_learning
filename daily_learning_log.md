@@ -152,3 +152,7 @@
 - Practiced Dictionary Methods concept and updated code examples.
 - Log entry 38 of 220
 
+## [2026-05-07 13:29] Advanced Python: Decorators & Wrappers
+- Practiced Decorators & Wrappers concept and updated code examples.
+- Log entry 39 of 220
+
