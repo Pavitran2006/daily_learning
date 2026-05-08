@@ -156,3 +156,7 @@
 - Practiced Decorators & Wrappers concept and updated code examples.
 - Log entry 39 of 220
 
+## [2026-05-08 19:10] Python Basics: Control Flow & Loops
+- Practiced Control Flow & Loops concept and updated code examples.
+- Log entry 40 of 220
+
