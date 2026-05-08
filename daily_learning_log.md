@@ -160,3 +160,7 @@
 - Practiced Control Flow & Loops concept and updated code examples.
 - Log entry 40 of 220
 
+## [2026-05-08 10:06] Databases: SQL Queries & Joins
+- Practiced SQL Queries & Joins concept and updated code examples.
+- Log entry 41 of 220
+
