@@ -164,3 +164,7 @@
 - Practiced SQL Queries & Joins concept and updated code examples.
 - Log entry 41 of 220
 
+## [2026-05-09 21:45] Algorithms: Recursion & Backtracking
+- Practiced Recursion & Backtracking concept and updated code examples.
+- Log entry 42 of 220
+
