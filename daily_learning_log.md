@@ -172,3 +172,7 @@
 - Practiced SQL Queries & Joins concept and updated code examples.
 - Log entry 43 of 220
 
+## [2026-05-12 12:37] Python Basics: Functions & Scope
+- Practiced Functions & Scope concept and updated code examples.
+- Log entry 44 of 220
+
