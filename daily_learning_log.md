@@ -196,3 +196,7 @@
 - Practiced MongoDB & NoSQL concept and updated code examples.
 - Log entry 49 of 220
 
+## [2026-05-15 18:00] Data Science: Linear Regression
+- Practiced Linear Regression concept and updated code examples.
+- Log entry 50 of 220
+
