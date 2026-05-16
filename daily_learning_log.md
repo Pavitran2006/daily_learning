@@ -200,3 +200,7 @@
 - Practiced Linear Regression concept and updated code examples.
 - Log entry 50 of 220
 
+## [2026-05-16 21:02] Algorithms: Dynamic Programming
+- Practiced Dynamic Programming concept and updated code examples.
+- Log entry 51 of 220
+
