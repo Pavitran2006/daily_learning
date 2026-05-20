@@ -248,3 +248,7 @@
 - Practiced Hash Tables concept and updated code examples.
 - Log entry 62 of 220
 
+## [2026-05-20 17:38] Algorithms: Recursion & Backtracking
+- Practiced Recursion & Backtracking concept and updated code examples.
+- Log entry 63 of 220
+
