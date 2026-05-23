@@ -272,3 +272,7 @@
 - Practiced ACID Properties concept and updated code examples.
 - Log entry 68 of 220
 
+## [2026-05-23 18:20] Advanced Python: Generators & Iterators
+- Practiced Generators & Iterators concept and updated code examples.
+- Log entry 69 of 220
+
