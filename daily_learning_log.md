@@ -276,3 +276,7 @@
 - Practiced Generators & Iterators concept and updated code examples.
 - Log entry 69 of 220
 
+## [2026-05-24 20:13] Algorithms: Binary Search
+- Practiced Binary Search concept and updated code examples.
+- Log entry 70 of 220
+
