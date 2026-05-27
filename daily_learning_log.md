@@ -304,3 +304,7 @@
 - Practiced SQL Queries & Joins concept and updated code examples.
 - Log entry 76 of 220
 
+## [2026-05-27 10:20] System Design: Load Balancing
+- Practiced Load Balancing concept and updated code examples.
+- Log entry 77 of 220
+
