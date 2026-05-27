@@ -300,3 +300,7 @@
 - Practiced Pandas DataFrames concept and updated code examples.
 - Log entry 75 of 220
 
+## [2026-05-27 17:22] Databases: SQL Queries & Joins
+- Practiced SQL Queries & Joins concept and updated code examples.
+- Log entry 76 of 220
+
