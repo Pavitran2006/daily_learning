@@ -324,3 +324,7 @@
 - Practiced Variables & Data Types concept and updated code examples.
 - Log entry 81 of 220
 
+## [2026-05-30 12:42] Databases: SQL Queries & Joins
+- Practiced SQL Queries & Joins concept and updated code examples.
+- Log entry 82 of 220
+
