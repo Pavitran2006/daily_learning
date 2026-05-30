@@ -332,3 +332,7 @@
 - Practiced Scikit-Learn Basics concept and updated code examples.
 - Log entry 83 of 220
 
+## [2026-05-30 10:30] Python Basics: Control Flow & Loops
+- Practiced Control Flow & Loops concept and updated code examples.
+- Log entry 84 of 220
+
