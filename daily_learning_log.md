@@ -348,3 +348,7 @@
 - Practiced Metaclasses concept and updated code examples.
 - Log entry 87 of 220
 
+## [2026-05-31 16:36] Data Structures: Stacks & Queues
+- Practiced Stacks & Queues concept and updated code examples.
+- Log entry 88 of 220
+
