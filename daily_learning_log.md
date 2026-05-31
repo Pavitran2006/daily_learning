@@ -352,3 +352,7 @@
 - Practiced Stacks & Queues concept and updated code examples.
 - Log entry 88 of 220
 
+## [2026-05-31 15:38] Algorithms: Recursion & Backtracking
+- Practiced Recursion & Backtracking concept and updated code examples.
+- Log entry 89 of 220
+
