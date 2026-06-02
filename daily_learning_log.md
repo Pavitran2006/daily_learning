@@ -356,3 +356,7 @@
 - Practiced Recursion & Backtracking concept and updated code examples.
 - Log entry 89 of 220
 
+## [2026-06-02 14:15] Web Development: Promises & Async/Await
+- Practiced Promises & Async/Await concept and updated code examples.
+- Log entry 90 of 220
+
