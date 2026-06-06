@@ -384,3 +384,7 @@
 - Practiced Control Flow & Loops concept and updated code examples.
 - Log entry 96 of 220
 
+## [2026-06-06 16:59] Algorithms: Sorting Algorithms
+- Practiced Sorting Algorithms concept and updated code examples.
+- Log entry 97 of 220
+
