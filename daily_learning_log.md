@@ -400,3 +400,7 @@
 - Practiced Control Flow & Loops concept and updated code examples.
 - Log entry 100 of 220
 
+## [2026-06-08 10:18] Advanced Python: Context Managers
+- Practiced Context Managers concept and updated code examples.
+- Log entry 101 of 220
+
