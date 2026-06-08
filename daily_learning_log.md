@@ -396,3 +396,7 @@
 - Practiced SQL Queries & Joins concept and updated code examples.
 - Log entry 99 of 220
 
+## [2026-06-08 14:44] Python Basics: Control Flow & Loops
+- Practiced Control Flow & Loops concept and updated code examples.
+- Log entry 100 of 220
+
