@@ -408,3 +408,7 @@
 - Practiced State Management concept and updated code examples.
 - Log entry 102 of 220
 
+## [2026-06-08 15:27] Data Science: Linear Regression
+- Practiced Linear Regression concept and updated code examples.
+- Log entry 103 of 220
+
