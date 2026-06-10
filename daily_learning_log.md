@@ -416,3 +416,7 @@
 - Practiced Variables & Data Types concept and updated code examples.
 - Log entry 104 of 220
 
+## [2026-06-10 11:12] Data Structures: Linked Lists
+- Practiced Linked Lists concept and updated code examples.
+- Log entry 105 of 220
+
