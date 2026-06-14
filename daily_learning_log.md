@@ -452,3 +452,7 @@
 - Practiced Database Indexing concept and updated code examples.
 - Log entry 113 of 220
 
+## [2026-06-14 11:33] Algorithms: Recursion & Backtracking
+- Practiced Recursion & Backtracking concept and updated code examples.
+- Log entry 114 of 220
+
