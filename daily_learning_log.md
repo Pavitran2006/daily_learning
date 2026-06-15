@@ -464,3 +464,7 @@
 - Practiced ORM with SQLAlchemy concept and updated code examples.
 - Log entry 116 of 220
 
+## [2026-06-15 18:15] Data Structures: Binary Trees & BST
+- Practiced Binary Trees & BST concept and updated code examples.
+- Log entry 117 of 220
+
