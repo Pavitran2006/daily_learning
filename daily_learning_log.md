@@ -492,3 +492,7 @@
 - Practiced Dictionary Methods concept and updated code examples.
 - Log entry 123 of 220
 
+## [2026-06-18 18:13] Algorithms: Recursion & Backtracking
+- Practiced Recursion & Backtracking concept and updated code examples.
+- Log entry 124 of 220
+
