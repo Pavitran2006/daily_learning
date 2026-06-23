@@ -548,3 +548,7 @@
 - Practiced Pandas DataFrames concept and updated code examples.
 - Log entry 137 of 220
 
+## [2026-06-23 10:17] Data Structures: Binary Trees & BST
+- Practiced Binary Trees & BST concept and updated code examples.
+- Log entry 138 of 220
+
