@@ -552,3 +552,7 @@
 - Practiced Binary Trees & BST concept and updated code examples.
 - Log entry 138 of 220
 
+## [2026-06-24 12:11] Data Science: Linear Regression
+- Practiced Linear Regression concept and updated code examples.
+- Log entry 139 of 220
+
