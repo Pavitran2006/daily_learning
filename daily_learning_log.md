@@ -572,3 +572,7 @@
 - Practiced State Management concept and updated code examples.
 - Log entry 143 of 220
 
+## [2026-06-25 18:13] Algorithms: Binary Search
+- Practiced Binary Search concept and updated code examples.
+- Log entry 144 of 220
+
