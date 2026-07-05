@@ -652,3 +652,7 @@
 - Practiced Asyncio & Concurrency concept and updated code examples.
 - Log entry 163 of 220
 
+## [2026-07-05 17:22] Data Structures: Binary Trees & BST
+- Practiced Binary Trees & BST concept and updated code examples.
+- Log entry 164 of 220
+
