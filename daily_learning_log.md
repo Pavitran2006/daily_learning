@@ -664,3 +664,7 @@
 - Practiced Promises & Async/Await concept and updated code examples.
 - Log entry 166 of 220
 
+## [2026-07-07 19:40] Data Structures: Binary Trees & BST
+- Practiced Binary Trees & BST concept and updated code examples.
+- Log entry 167 of 220
+
