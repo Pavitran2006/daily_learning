@@ -700,3 +700,7 @@
 - Practiced Docker Containers concept and updated code examples.
 - Log entry 175 of 220
 
+## [2026-07-10 12:36] Algorithms: Sorting Algorithms
+- Practiced Sorting Algorithms concept and updated code examples.
+- Log entry 176 of 220
+
