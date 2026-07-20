@@ -784,3 +784,7 @@
 - Practiced CI/CD Pipelines concept and updated code examples.
 - Log entry 196 of 220
 
+## [2026-07-20 21:28] Python Basics: Functions & Scope
+- Practiced Functions & Scope concept and updated code examples.
+- Log entry 197 of 220
+
