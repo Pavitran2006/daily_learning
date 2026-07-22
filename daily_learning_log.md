@@ -812,3 +812,7 @@
 - Practiced Linux Command Line concept and updated code examples.
 - Log entry 203 of 220
 
+## [2026-07-22 11:44] Databases: SQL Queries & Joins
+- Practiced SQL Queries & Joins concept and updated code examples.
+- Log entry 204 of 220
+
