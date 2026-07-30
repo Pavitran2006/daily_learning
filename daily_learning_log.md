@@ -864,3 +864,7 @@
 - Practiced ACID Properties concept and updated code examples.
 - Log entry 216 of 220
 
+## [2026-07-30 14:17] Algorithms: Greedy Algorithms
+- Practiced Greedy Algorithms concept and updated code examples.
+- Log entry 217 of 220
+
