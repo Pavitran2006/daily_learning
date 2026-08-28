@@ -1,7 +1,3 @@
-# SQL LeetCode Solutions
+# SQL Solutions
 
-This directory contains solutions to LeetCode SQL problems organized by difficulty level:
-
-- `Easy/`
-- `Medium/`
-- `Hard/`
+This directory contains LeetCode SQL problem solutions.
